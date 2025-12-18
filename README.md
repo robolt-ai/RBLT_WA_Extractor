@@ -14,7 +14,7 @@ A JavaScript browser extension to extract group contact information from WhatsAp
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/robolt-ai
+git clone https://github.com/robolt-ai/RBLT_WA_Extractor.git
 ```
 
 ### 2. Load the Extension in Chrome
