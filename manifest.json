@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Robolt WA Group Number Extractor",
+    "version": "1.0",
+    "description": "Extract WhatsApp group participants and contact details",
+    "permissions": ["scripting", "activeTab"],
+    "host_permissions": ["https://web.whatsapp.com/*"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
